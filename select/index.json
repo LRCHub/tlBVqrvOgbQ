@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "緋色の空",
+  "base_artist": "川田まみ",
+  "createdAt": "2026-03-15T16:03:54.449323Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "緋色の空",
+      "artist": "川田まみ",
+      "has_synced": true,
+      "path": "select/01_緋色の空_川田まみ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "緋色の空",
+      "artist": "川田まみ",
+      "has_synced": true,
+      "path": "select/02_緋色の空_川田まみ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "緋色の空 (instrumental)",
+      "artist": "川田まみ",
+      "has_synced": true,
+      "path": "select/03_緋色の空_(instrumental)_川田まみ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "緋色の空",
+      "artist": "川田まみ",
+      "has_synced": true,
+      "path": "select/04_緋色の空_川田まみ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "緋色の空",
+      "artist": "Mami Kawada",
+      "has_synced": true,
+      "path": "select/05_緋色の空_Mami_Kawada.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "緋色の空",
+      "artist": "川田まみ",
+      "has_synced": true,
+      "path": "select/06_緋色の空_川田まみ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "緋色の空",
+      "artist": "Kawada Mami",
+      "has_synced": true,
+      "path": "select/07_緋色の空_Kawada_Mami.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "緋色の空",
+      "artist": "Chum",
+      "has_synced": false,
+      "path": "select/08_緋色の空_Chum.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "緋色の空",
+      "artist": "川田 まみ",
+      "has_synced": false,
+      "path": "select/pl_01_緋色の空_川田_まみ.txt"
+    }
+  ]
+}
